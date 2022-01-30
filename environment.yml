@@ -1,0 +1,30 @@
+name: brain-score_packaging
+channels:
+  - defaults
+dependencies:
+  - python
+  - bokeh
+  - boto3
+  - curl
+  - hdf5
+  - h5py
+  - jupyter
+  - matplotlib
+  - netcdf4
+  - numpy
+  - pandas
+  - pillow
+  - plotly
+  - pyqt
+  - pytables
+  - pytest
+  - qt
+  - requests
+  - scipy
+  - sqlalchemy
+  - widgetsnbextension
+  - xarray
+  - xlrd
+  - pip:
+    - dataset
+    - ipyvolume

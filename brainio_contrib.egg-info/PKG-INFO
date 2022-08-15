@@ -1,4 +1,4 @@
-Metadata-Version: 1.1
+Metadata-Version: 2.1
 Name: brainio-contrib
 Version: 0.1.0
 Summary: Tools for adding material to the BrainIO system.
@@ -6,7 +6,6 @@ Home-page: https://github.com/brain-score/brainio_contrib
 Author: Jon Prescott-Roy, Martin Schrimpf
 Author-email: jjpr@mit.edu, mschrimpf@mit.edu
 License: MIT license
-Description: UNKNOWN
 Keywords: BrainIO
 Platform: UNKNOWN
 Classifier: Development Status :: 2 - Pre-Alpha
@@ -15,3 +14,6 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Natural Language :: English
 Classifier: Programming Language :: Python :: 3.6
 Classifier: Programming Language :: Python :: 3.7
+
+UNKNOWN
+
